@@ -153,7 +153,7 @@ JavaScript属于静态作用域，即声明的作用域是根据程序正文在�
 
 ![2019-06-20-06-00-27]( https://xiaomuzhu-image.oss-cn-beijing.aliyuncs.com/0f1701f3b7061942ae24a9357f28bc2e.png)
 
-> 原理详解请移步[JavaScript执行机制](#mechanism)
+> 原理详解请移步[JavaScript执行机制](mechanism)
 
 ## ES6模块与CommonJS模块有什么区别？
 
